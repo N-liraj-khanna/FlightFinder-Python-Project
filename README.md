@@ -9,7 +9,7 @@
 6. Sys
 7. API's
 
-### This program gives live status of flights
+### Live status of flights you need
 #### Takes in the airport, date(from & to), date of return, number of people(adults & children)
 #### And outputs 10(max) live flights on the given date with the price(for each individual adults, children, infants)
 #### and the route it takes on the date with departure time, using PyQt5 with a GUI
